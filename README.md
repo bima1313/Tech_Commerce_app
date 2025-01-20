@@ -1,16 +1,27 @@
-# e_commerce
+# tech_commerce_app
 
-A new Flutter project.
+A e-commerce app project. This project using dependencies:
+* firebase_authentication,
+* cloud_firestore,
+* bloc,
+* mongoDB,
+* API,
+* go_router
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+<div align="center">
+    <a href="url"><img src="https://github.com/bima1313/Tech_Commerce_app/blob/main/screenshots/home_page.png" height="635" width="300" hspace="25"></a>    
+    <a href="url"><img src="https://github.com/bima1313/Tech_Commerce_app/blob/main/screenshots/search_page.png" height="635" width="300"></a>     
+</div>
+<br>
+<div align="center">
+    <a href="url"><img src="https://github.com/bima1313/Tech_Commerce_app/blob/main/screenshots/favorite_page.png" height="635" width="300" hspace="25"></a>
+    <a href="url"><img src="https://github.com/bima1313/Tech_Commerce_app/blob/main/screenshots/profile%20page.png" height="635" width="300"></a>        
+</div>
+<div align="center">
+    <a href="url"><img src="https://github.com/bima1313/Tech_Commerce_app/blob/main/screenshots/details_page.png" height="635" width="300" hspace="25"></a>
+    <a href="url"><img src="https://github.com/bima1313/Tech_Commerce_app/blob/main/screenshots/home_page2.png" height="635" width="300" hspace="25"></a>       
+      <a href="url"><img src="https://github.com/bima1313/Tech_Commerce_app/blob/main/screenshots/cart_view.png" height="635" width="300"></a>       
+  
+</div>
